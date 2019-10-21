@@ -32,4 +32,6 @@ output: github_document
     1. Add timelines for completion, with intermediate goals
 1. UMass Amherst Quantitative microbiology professorship: http://careers.umass.edu/amherst/en-us/job/502843/tenure-track-assistant-professor-quantitative-microbiology
 1. External funding opportunities
+    1. postdoc funding
+    1. later funding
   
