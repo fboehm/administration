@@ -19,7 +19,6 @@ output: github_document
 
 ## Logistics updates (Sundaram)
 
-1. computer monitor order update
 1. I registered for Keystone meeting. Still need to book airfare & hotel
 
 
