@@ -1,0 +1,10 @@
+---
+title: "README"
+author: "Frederick J. Boehm"
+date: "10/21/2019"
+output: github_document
+---
+
+This repository contains materials related to a variety of administrative tasks.
+
+Included in these are meeting agendas, project completion timelines, draft emails, etc.

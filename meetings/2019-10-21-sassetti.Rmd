@@ -1,0 +1,37 @@
+---
+title: 'Meeting agenda: Chris Sassetti, October 21, 2019'
+author: "Frederick J. Boehm"
+date: "10/21/2019"
+output: github_document
+---
+
+
+## Research updates
+
+### Collaboration with Brian Yandell
+  1. Need to read Brian's notes on estimating allelic number and allele effects.
+  1. Need to revisit Gelman's books on bayesian data analysis.
+  1. possible application: Mapping for validation in a distinct cohort. If we know which founders have which alleles at the QTL of interest, we can "collapse" the founder genotypes to those alleles before doing the univariate QTL scan on the chromosome of interest.
+  1. Need to try Wes Crouse's TIMBR, too, for inferring number of alleles. Need to understand its models, too.
+
+### Data sharing/ collaboration with FDA (K. Elkins)
+  1. What are the FDA traits? Any RNA or protein traits? Or only gross/ clinical traits??
+
+## Logistics updates
+
+1. computer monitor order update
+1. I registered for Keystone meeting. Still need to book airfare & hotel
+
+
+## Professional development
+
+1. Individualized development plan writing
+  1. List goals in a variety of dimensions
+  1. Prioritize goals
+  1. Chart path to completion of goals
+  1. Add timelines for completion, with intermediate goals
+
+
+
+
+  
