@@ -30,6 +30,6 @@ output: github_document
     1. Prioritize goals
     1. Chart path to completion of goals
     1. Add timelines for completion, with intermediate goals
-1. UMass Amherst Quantitative microbiology professorship
+1. UMass Amherst Quantitative microbiology professorship: http://careers.umass.edu/amherst/en-us/job/502843/tenure-track-assistant-professor-quantitative-microbiology
 1. External funding opportunities
   
