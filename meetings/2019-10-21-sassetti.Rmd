@@ -17,7 +17,7 @@ output: github_document
 ### Data sharing/ collaboration with FDA (K. Elkins)
   1. What are the FDA traits? Any RNA or protein traits? Or only gross/ clinical traits??
 
-## Logistics updates
+## Logistics updates (Sundaram)
 
 1. computer monitor order update
 1. I registered for Keystone meeting. Still need to book airfare & hotel
