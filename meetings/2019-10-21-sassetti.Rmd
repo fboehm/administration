@@ -26,12 +26,10 @@ output: github_document
 ## Professional development
 
 1. Individualized development plan writing
-  1. List goals in a variety of dimensions
-  1. Prioritize goals
-  1. Chart path to completion of goals
-  1. Add timelines for completion, with intermediate goals
-
-
-
-
+    1. List goals in a variety of dimensions
+    1. Prioritize goals
+    1. Chart path to completion of goals
+    1. Add timelines for completion, with intermediate goals
+1. UMass Amherst Quantitative microbiology professorship
+1. External funding opportunities
   
