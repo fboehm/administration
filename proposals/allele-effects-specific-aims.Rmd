@@ -1,0 +1,18 @@
+
+## Specific Aim 1
+
+Develop Bayesian methods for inferring allele number and allele effects at known quantitative trait loci.
+
+We propose new strategies and methods for simultaneous inference of allele number and allele effects at quantitative trait loci in multiparental populations. We choose a Bayesian framework to provide a statistically rigorous implementation for our methods. 
+
+
+
+## Specific Aim 2
+
+Apply methods to quantify enhancement in statistical power to detect quantitative trait loci in new cohorts of mice. 
+
+## Specific Aim 3
+
+Disseminate methods through open-source software and instructional materials. 
+
+

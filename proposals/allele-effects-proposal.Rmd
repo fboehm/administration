@@ -1,0 +1,13 @@
+---
+title: "Allele effects research proposal"
+author: "Frederick J. Boehm"
+date: "10/22/2019"
+output: bookdown::html_document2
+---
+
+```{r child="allele-effects-specific-aims.Rmd"}
+
+```
+
+
+
