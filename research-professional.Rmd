@@ -1,0 +1,33 @@
+---
+title: "Research and Professional Development Plan"
+author: "Frederick J. Boehm"
+date: "2/21/2020"
+output: html_document
+---
+
+
+Use `vistime` R package to make a timeline, too!
+
+## Research goals
+
+1. Using TIMBR to infer allelic series
+  a. TIMBR with simulated traits - how well do we recover allelic series?? When does TIMBR give unreasonable inferences? When does it give wrong (but maybe reasonable) inferences? 
+  a. TIMBR with QTL in DO & CC  
+1. Aim 2 of the F32 (use TIMBR for allelic series inferences)
+  a. infer allelic series at QTLs in DO & reduced model QTL scan in CC
+  a. infer allelic series at QTLs in CC & reduced model QTL scan in DO
+  
+1. F2 (CC001 by CC042)
+  a. How to use QTL in these F2s to find QTL in DO and CC?
+
+1. RNAseq data processing and analysis
+  a. Get quantitative traits from FASTQ files
+  a. QTL mapping for these quant traits
+  a. Mediation analyses? Mediation with consideration of allelic series???
+  
+
+  
+  
+  
+  
+  

@@ -9,10 +9,17 @@ We propose new strategies and methods for simultaneous inference of allele numbe
 
 ## Specific Aim 2
 
-Apply methods to quantify enhancement in statistical power to detect quantitative trait loci in new cohorts of mice. 
+Quantify enhancement in statistical power to detect quantitative trait loci in new cohorts of mice. 
+
+
+
 
 ## Specific Aim 3
 
 Disseminate methods through open-source software and instructional materials. 
+
+## Specific Aim 4
+
+Enhance power to detect QTL in hotspots by first establishing the allele partitioning of the strongest traits. Then collapse genotypes according to that partitioning and scan all traits with collapsed genotypes.
 
 
